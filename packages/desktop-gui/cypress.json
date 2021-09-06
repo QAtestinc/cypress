@@ -1,6 +1,7 @@
 {
   "baseUrl": "http://localhost:5005",
-  "projectId": "37r9ev",
+  "projectId": "37r9ev
+",
   "viewportWidth": 800,
   "viewportHeight": 850,
   "env": {
