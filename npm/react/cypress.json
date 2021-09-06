@@ -2,7 +2,7 @@
   "viewportWidth": 400,
   "viewportHeight": 400,
   "video": false,
-  "projectId": "z9dxah",
+  "projectId": "37r9ev",
   "testFiles": "**/*spec.{js,jsx,ts,tsx}",
   "env": {
     "reactDevtools": true
